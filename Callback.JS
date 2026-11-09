@@ -100,7 +100,7 @@ function divide(a,b){
 }
 
 console.log(calculate(17,8,add));
-console.log(calculate(23,9,sub));
+console.log(calculate(23,13,sub));
 console.log(calculate(53,54,multiply));
 console.log(calculate(66,33,divide));
 
